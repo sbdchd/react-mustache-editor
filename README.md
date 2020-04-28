@@ -14,5 +14,6 @@ Next thing to try: <https://prosemirror.net>
 ## dev
 
 ```shell
+yarn install
 yarn start
 ```
